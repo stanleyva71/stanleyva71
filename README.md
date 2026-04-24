@@ -10,14 +10,14 @@ Aqui eu busco compartilhar minha evolução, projetos, desenvolver novas habilid
 
 
 <p align="left">
-    <a target="_blank" href="mailto:stanleyva71@gmail.com">
+    <a href="mailto:stanleyva71@gmail.com">
         <img 
             alt="Email" 
             title="Email"
             src="https://camo.githubusercontent.com/3dab650f25d56587b6218c5aa481ae7da43e1b66427a0c2cd3263685fc765b0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
         />
     </a>
-    <a target="_blank" href="https://www.linkedin.com/in/stanleyvale/">
+    <a href="https://www.linkedin.com/in/stanleyvale/">
         <img 
             alt="Linkedin" 
             title="Linkedin"
