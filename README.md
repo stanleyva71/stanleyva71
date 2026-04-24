@@ -56,6 +56,14 @@ Aqui eu busco compartilhar minha evolução, projetos, desenvolver novas habilid
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -86,6 +94,15 @@ Aqui eu busco compartilhar minha evolução, projetos, desenvolver novas habilid
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/3291/3291667.png" 
+/>
+
 
 <br/>
 <br/>
