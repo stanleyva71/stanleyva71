@@ -10,18 +10,16 @@ Aqui eu busco compartilhar minha evolução, projetos, desenvolver novas habilid
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="mailto:stanleyva71@gmail.com">
         <img 
             alt="EMAIL" 
-            title="EMAIL" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            title="EMAIL"
         />
     </a>
-    <a href="www.linkedin.com/in/stanleyvale">
+    <a href="[www.linkedin.com/in/stanleyvale](https://www.linkedin.com/in/stanleyvale/)">
         <img 
             alt="LINKEDIN" 
-            title="LINKEDIN" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="LINKEDIN"
         />
     </a>
 </p>
