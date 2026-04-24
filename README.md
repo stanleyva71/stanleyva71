@@ -1,6 +1,6 @@
 # Prazer! me chamo Stanley 👋
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Sou formado em técnico de Informática pela FIEB, onde adquiri sólida base em lógica de programação e fundamentos de desenvolvimento de software. Atualmente, estou cursando o curso superior em Gestão da Tecnologia da Informação na Fatec Barueri.
 
@@ -14,19 +14,21 @@ Aqui eu busco compartilhar minha evolução, projetos, desenvolver novas habilid
         <img 
             alt="EMAIL" 
             title="EMAIL"
+            src="https://camo.githubusercontent.com/3dab650f25d56587b6218c5aa481ae7da43e1b66427a0c2cd3263685fc765b0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
         />
     </a>
-    <a href="[www.linkedin.com/in/stanleyvale](https://www.linkedin.com/in/stanleyvale/)">
+    <a href="https://www.linkedin.com/in/stanleyvale/">
         <img 
-            alt="LINKEDIN" 
-            title="LINKEDIN"
+            alt="Linkedin" 
+            title="Linkedin"
+            src="https://camo.githubusercontent.com/001e7c1208607ee80e3312e50ab901a71a2a16af693e1367b605d720bbe9b79d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧑🏼‍💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
