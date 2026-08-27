@@ -1,6 +1,8 @@
-# Prazer! me chamo Stanley 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a0715b&height=120&section=header"/>
+<img width="1705" height="883" alt="Portifolio" src="https://github.com/user-attachments/assets/9c7077c2-62a9-462a-824a-e0a73883336a" />
 
-**`Desenvolvedor Front-End`**
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a0715b&size=35&center=true&vCenter=true&width=1000&lines=Prazer!,+me+chamo+Stanley+Vale+👋;Eu+sou+um+desenvolvedor+Front+End;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 Sou formado em técnico de Informática pela FIEB, onde adquiri sólida base em lógica de programação e fundamentos de desenvolvimento de software. Atualmente, estou cursando o curso superior em Gestão da Tecnologia da Informação na Fatec Barueri.
 
@@ -98,3 +100,4 @@ Aqui eu busco compartilhar minha evolução, projetos, desenvolver novas habilid
 
 <br/>
 <br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a0715b&height=120&section=footer"/>
