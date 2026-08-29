@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a0715b&size=35&center=true&vCenter=true&width=1000&lines=Prazer!,+me+chamo+Stanley+Vale+👋;Eu+sou+Desenvolvedor+de+Software;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
-<img width="1705" height="883" alt="Portifolio" src="https://github.com/user-attachments/assets/9c7077c2-62a9-462a-824a-e0a73883336a" />
+<img width="1568" height="899" alt="Screenshot_6" src="https://github.com/user-attachments/assets/9fca2217-f36f-48e7-a6df-ff71e458513a" />
 
 ---
 
